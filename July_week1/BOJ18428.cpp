@@ -1,6 +1,6 @@
 // 백준 18428 - 감시 피하기
 // https://www.acmicpc.net/problem/18428
-// 백트래킹, 브루트포스
+// dfs, 백트래킹, 브루트포스, 재귀
 
 #include <iostream>
 #include <vector>

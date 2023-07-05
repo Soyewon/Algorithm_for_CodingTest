@@ -9,7 +9,7 @@
 // 선생님 T
 // 학생 S
 // 장애물 O
-// 선생님은 대각선은 볼 수 x
+
 using namespace std;
 
 int n;
